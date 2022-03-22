@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraImpostoRenda</string>
+
+<!-- Tela de imposto de renda-->
+    <string name="salario">Salário</string>
+    <string name="hint_salario">Digite seu salário</string>
+    <string name="botao_calcular">Calcular</string>
+    <string name="salario_liquido">Salário Líquido</string>
+    <string name="imposto">Imposto</string>
+</resources>
